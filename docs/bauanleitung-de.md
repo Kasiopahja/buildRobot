@@ -73,6 +73,7 @@ Den Akku mit seinem passenden Ladegerät laden. Ein vollständig geladener 2S-Li
 - Arduino IDE und das ESP32-Boardpaket von Espressif installieren.
 - **LOLIN S2 Mini** als Board auswählen.
 - Firmware und alle zugehörigen Dateien aus dem [offiziellen Firmware-Verzeichnis](https://github.com/dorianborian/sesame-robot/tree/main/firmware) zusammen herunterladen.
+- In `sesame-firmware-main.ino` die S2-Mini-Konfiguration für `servoPins`, `I2C_SDA` und `I2C_SCL` aktivieren und die entsprechenden Distro-Board-Konfigurationen auskommentieren. Die Boardauswahl in der IDE allein stellt diese Pins nicht um. Die Definitionen mit dem S2-Mini-Schaltbild der verwendeten Version abgleichen.
 - Im Bibliotheksmanager **ESP32Servo 3.0.9** fest auswählen. Die offizielle Projektseite warnt bei neueren Versionen vor gegenseitig beeinflussten Servos.
 - Weitere Bibliotheken und USB-Einstellungen anhand der README der verwendeten Firmware-Version einrichten; die tatsächlich funktionierenden Versionen protokollieren.
 - Zuerst die zur S2-Mini-Pinbelegung passende Motor-Testfirmware verwenden. Keine Distro-Board-Pinbelegung übernehmen.

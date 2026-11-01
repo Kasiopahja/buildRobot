@@ -39,7 +39,7 @@ Spezifikationen für die Bestellung, noch ohne einzeln verifizierte Händlerange
 
 | Menge | Spezifikation | Hinweis |
 | --- | --- | --- |
-| 1 | KCD1-Wippschalter, Ein/Aus, zweipolig | Einbaumaße und Gleichstrombelastbarkeit prüfen; „KCD1“ allein garantiert keine passende Baugröße. |
+| 1 | KCD1-Wippschalter, Ein/Aus, einpolig mit zwei Anschlüssen (SPST) | Einbaumaße und Gleichstrombelastbarkeit prüfen; „KCD1“ allein garantiert keine passende Baugröße. |
 | 1 | Lochrasterplatine, Raster 2,54 mm, etwa 5 × 7 cm | Für den Einbau passend zuschneiden. |
 | 1 | Gerade Stiftleiste, 1 × 40 Pins, Raster 2,54 mm | Daraus acht dreipolige Servoanschlüsse herstellen. |
 | je 1 m | Flexible Silikonlitze 22 AWG, rot und schwarz | Für die kurzen Stromversorgungsleitungen gemäß offizieller Anleitung. |
