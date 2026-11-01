@@ -8,6 +8,7 @@ Aktueller Favorit: **Sesame Robot**, als DIY-Aufbau mit acht MG90S-180°-Servos,
 
 | Dokument | Inhalt |
 | --- | --- |
+| [Druckdateien für den P1S](hardware/printing/README.md) | Original-STLs, ausgerichtete Einzelteile, gemeinsame Druckplatten, Blender-Projekt und PETG-Hinweise |
 | [Deutsche Bauanleitung](docs/bauanleitung-de.md) | Vorbereitung, Druck, Verdrahtung, Firmware, Kalibrierung und Fehlersuche |
 | [Einkaufsliste Deutschland](docs/einkaufsliste-de.md) | Hauptteile, Kleinteile, Händler, Budget und offene Prüfungen |
 | [Projektstand und Entscheidungen](docs/projektstand.md) | Verglichene Projekte, gewählte Richtung und bisheriger Fortschritt |
@@ -24,6 +25,6 @@ Aktueller Favorit: **Sesame Robot**, als DIY-Aufbau mit acht MG90S-180°-Servos,
 
 Für die aktuelle Einkaufsauswahl sind etwa **150–180 € vor Versand und Filament** eingeplant. Preise und Teilepassung sind teilweise noch offen.
 
-Die frühere PDF „Sesame Robot – Deutsche Bauanleitung“ liegt hier nicht vor. Die Markdown-Anleitung wurde neu zusammengestellt. Offizielle Druckdateien und Firmware sind in den Quellen verlinkt; sie wurden noch nicht als lokale Kopien übernommen.
+Die frühere PDF „Sesame Robot – Deutsche Bauanleitung“ liegt hier nicht vor. Die Markdown-Anleitung wurde neu zusammengestellt. Die elf ausgewählten Original-STLs und mit Blender vorbereiteten Druckplatten liegen jetzt unter `hardware/printing`. Die Firmware ist weiterhin nur verlinkt.
 
 [Offizielle Projektseite](https://www.doriantodd.com/sesame/) · [Offizielles Sesame-Repository](https://github.com/dorianborian/sesame-robot)

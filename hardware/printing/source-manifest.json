@@ -1,0 +1,86 @@
+{
+  "repository": "https://github.com/dorianborian/sesame-robot",
+  "commit": "f328ed35f5cbcbdd44a5e16e3ec679d2caa00d92",
+  "import_date": "2026-11-01",
+  "license": "Apache-2.0",
+  "selected_top_cover": "Top-Cover-Enclosed-v117.stl",
+  "files": [
+    {
+      "file": "original/Bottom-Cover-v121.stl",
+      "upstream_path": "hardware/printing/stl/Bottom-Cover-v121.stl",
+      "bytes": 85184,
+      "sha256": "6c2cce125cea714c0e710ee904b82a9e51f02c815f523cc73b0b3b949d96f0c7",
+      "git_blob_sha": "12a134b1242c853847e8a3e509b003dd40baacc9"
+    },
+    {
+      "file": "original/Internal-Frame-v121.stl",
+      "upstream_path": "hardware/printing/stl/Internal-Frame-v121.stl",
+      "bytes": 389084,
+      "sha256": "6df1f1f0fc60da4498de36412be317fc953dc52c33a9933733e2c967c200c916",
+      "git_blob_sha": "73ac6caa55ffdbb0f92806dfb6e7cef364d129af"
+    },
+    {
+      "file": "original/L1-v117.stl",
+      "upstream_path": "hardware/printing/stl/L1-v117.stl",
+      "bytes": 359384,
+      "sha256": "081896568cc9776393c038d05ecc8caf01090c6971efebe799d064def4c92558",
+      "git_blob_sha": "d524e0e8cefd7acfad283c5bc12099606753518c"
+    },
+    {
+      "file": "original/L2-v117.stl",
+      "upstream_path": "hardware/printing/stl/L2-v117.stl",
+      "bytes": 383384,
+      "sha256": "4e47eef40bf523aa0d7b0ac285f3086b3e6c5ccd347525f5c93bbf0c5bcd1fbf",
+      "git_blob_sha": "93b935a55bc927b88aa81be70504b1cb4763b1d8"
+    },
+    {
+      "file": "original/L3-v117.stl",
+      "upstream_path": "hardware/printing/stl/L3-v117.stl",
+      "bytes": 102684,
+      "sha256": "136b0f28814629c654a45da1ebed93f496399c0d97007c6c02e1df4422be56a3",
+      "git_blob_sha": "7fcafeb7faac60cde3f6fd140cce0bfeea977a04"
+    },
+    {
+      "file": "original/L4-v117.stl",
+      "upstream_path": "hardware/printing/stl/L4-v117.stl",
+      "bytes": 91384,
+      "sha256": "731819f13cd34efb4ab1b9121e9fae835a463ae11f6689670f7800113ec7b470",
+      "git_blob_sha": "a0912f6817bf89a30c29b9eaae053d2278d0950f"
+    },
+    {
+      "file": "original/R1-v117.stl",
+      "upstream_path": "hardware/printing/stl/R1-v117.stl",
+      "bytes": 379784,
+      "sha256": "443f956016ad416699d8d5e56ab2fb0e36b10d42f02ff47ea02ae5986180e871",
+      "git_blob_sha": "56116865753791974902f604997f8ac5ca6af979"
+    },
+    {
+      "file": "original/R2-v117.stl",
+      "upstream_path": "hardware/printing/stl/R2-v117.stl",
+      "bytes": 378984,
+      "sha256": "fab2770d0d7f1384c4888e2b3a25cd7a6729c2b4230894b4771a177b73c6452c",
+      "git_blob_sha": "08b88204b1f7482e8417527085d065970667c5d0"
+    },
+    {
+      "file": "original/R3-v117.stl",
+      "upstream_path": "hardware/printing/stl/R3-v117.stl",
+      "bytes": 105884,
+      "sha256": "c2c35b4c948849878649d99e512af6702b5fcbbd2b30578bbec87ab15b8ec99e",
+      "git_blob_sha": "ba6168d833bb57bee1f0dbb0b3da9e4984c7cf8b"
+    },
+    {
+      "file": "original/R4-v117.stl",
+      "upstream_path": "hardware/printing/stl/R4-v117.stl",
+      "bytes": 94584,
+      "sha256": "131348a19491edad32f29d7a64109fdfadc3a03e01feedbf08dc1769e050938a",
+      "git_blob_sha": "ba4b3cf9b77415deb2dd25c16ddff6c38d367a09"
+    },
+    {
+      "file": "original/Top-Cover-Enclosed-v117.stl",
+      "upstream_path": "hardware/printing/stl/top-covers/Top-Cover-Enclosed-v117.stl",
+      "bytes": 184184,
+      "sha256": "07bf63aefab29fdde65b706b0b5fd62e283c62c8381022089598e00f32870a26",
+      "git_blob_sha": "6310e1364d1a8f67b2f7a020c025d6790e7213a2"
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "blender_version": "4.3.2",
+  "bed_mm": [
+    256,
+    256
+  ],
+  "margin_mm": 10,
+  "minimum_bbox_gap_mm": 8,
+  "geometry_changes": "rigid rotation/translation plus removal of coincident/zero-volume facets; no scale or shape changes",
+  "parts": [
+    {
+      "name": "Internal-Frame-v121",
+      "source_up_axis": "-Y",
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0
+        ]
+      ],
+      "translation_mm": [
+        25.592833518981934,
+        43.65677261352539,
+        21.967756271362305
+      ],
+      "bounds_mm": [
+        [
+          12.0,
+          12.0,
+          0.0
+        ],
+        [
+          91.22538661956787,
+          80.08000183105469,
+          15.699739456176758
+        ]
+      ],
+      "dimensions_mm": [
+        79.22538661956787,
+        68.08000183105469,
+        15.699739456176758
+      ],
+      "source_triangles": 7780,
+      "redundant_facets_removed": 0,
+      "triangles": 7780,
+      "contact_area_mm2": 3745.4469864063835,
+      "downward_area_above_45_deg_mm2": 33.03529540741738,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0
+    },
+    {
+      "name": "Bottom-Cover-v121",
+      "source_up_axis": "+Y",
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      "translation_mm": [
+        118.59283351898193,
+        41.50480270385742,
+        1.0019830465316772
+      ],
+      "bounds_mm": [
+        [
+          105.0,
+          12.0,
+          0.0
+        ],
+        [
+          184.22538661956787,
+          66.24315071105957,
+          7.269999861717224
+        ]
+      ],
+      "dimensions_mm": [
+        79.22538661956787,
+        54.24315071105957,
+        7.269999861717224
+      ],
+      "source_triangles": 1702,
+      "redundant_facets_removed": 0,
+      "triangles": 1702,
+      "contact_area_mm2": 2334.5260995149383,
+      "downward_area_above_45_deg_mm2": 1001.801377007288,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0
+    },
+    {
+      "name": "Top-Cover-Enclosed-v117",
+      "source_up_axis": "+Y",
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ],
+      "translation_mm": [
+        25.592833518981934,
+        115.07522773742676,
+        -21.967756271362305
+      ],
+      "bounds_mm": [
+        [
+          12.0,
+          94.0,
+          0.0
+        ],
+        [
+          91.22538661956787,
+          131.38400077819824,
+          38.18785285949707
+        ]
+      ],
+      "dimensions_mm": [
+        79.22538661956787,
+        37.38400077819824,
+        38.18785285949707
+      ],
+      "source_triangles": 3682,
+      "redundant_facets_removed": 2,
+      "triangles": 3680,
+      "contact_area_mm2": 356.51223853831186,
+      "downward_area_above_45_deg_mm2": 1866.7010770211552,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0
+    },
+    {
+      "name": "L1-v117",
+      "source_up_axis": "+X",
+      "rotation": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "translation_mm": [
+        171.1874542236328,
+        133.35775756835938,
+        12.44672966003418
+      ],
+      "bounds_mm": [
+        [
+          105.0,
+          94.0,
+          0.0
+        ],
+        [
+          154.5206813812256,
+          124.48000049591064,
+          20.320000171661377
+        ]
+      ],
+      "dimensions_mm": [
+        49.520681381225586,
+        30.480000495910645,
+        20.320000171661377
+      ],
+      "source_triangles": 7186,
+      "redundant_facets_removed": 0,
+      "triangles": 7186,
+      "contact_area_mm2": 346.506153356504,
+      "downward_area_above_45_deg_mm2": 88.15791865643268,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0
+    },
+    {
+      "name": "R1-v117",
+      "source_up_axis": "+X",
+      "rotation": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "translation_mm": [
+        151.33322715759277,
+        133.35775756835938,
+        12.44672966003418
+      ],
+      "bounds_mm": [
+        [
+          168.0,
+          94.0,
+          0.0
+        ],
+        [
+          217.5206813812256,
+          124.48000049591064,
+          20.320000171661377
+        ]
+      ],
+      "dimensions_mm": [
+        49.520681381225586,
+        30.480000495910645,
+        20.320000171661377
+      ],
+      "source_triangles": 7594,
+      "redundant_facets_removed": 0,
+      "triangles": 7594,
+      "contact_area_mm2": 346.506153356504,
+      "downward_area_above_45_deg_mm2": 88.9417365530341,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0
+    },
+    {
+      "name": "L2-v117",
+      "source_up_axis": "+X",
+      "rotation": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "translation_mm": [
+        88.33322715759277,
+        173.35775756835938,
+        12.44672966003418
+      ],
+      "bounds_mm": [
+        [
+          105.0,
+          134.0,
+          0.0
+        ],
+        [
+          154.5206813812256,
+          164.48000049591064,
+          20.320000171661377
+        ]
+      ],
+      "dimensions_mm": [
+        49.520681381225586,
+        30.480000495910645,
+        20.320000171661377
+      ],
+      "source_triangles": 7666,
+      "redundant_facets_removed": 0,
+      "triangles": 7666,
+      "contact_area_mm2": 346.506153356504,
+      "downward_area_above_45_deg_mm2": 89.86636369006523,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0
+    },
+    {
+      "name": "R2-v117",
+      "source_up_axis": "+X",
+      "rotation": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "translation_mm": [
+        234.1874542236328,
+        173.35775756835938,
+        12.44672966003418
+      ],
+      "bounds_mm": [
+        [
+          168.0,
+          134.0,
+          0.0
+        ],
+        [
+          217.5206813812256,
+          164.48000049591064,
+          20.320000171661377
+        ]
+      ],
+      "dimensions_mm": [
+        49.520681381225586,
+        30.480000495910645,
+        20.320000171661377
+      ],
+      "source_triangles": 7578,
+      "redundant_facets_removed": 0,
+      "triangles": 7578,
+      "contact_area_mm2": 346.506153356504,
+      "downward_area_above_45_deg_mm2": 96.03105649216039,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0
+    },
+    {
+      "name": "L3-v117",
+      "source_up_axis": "-X",
+      "rotation": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "translation_mm": [
+        118.90676879882812,
+        144.29724311828613,
+        13.287933349609375
+      ],
+      "bounds_mm": [
+        [
+          12.0,
+          150.0,
+          0.0
+        ],
+        [
+          70.42000198364258,
+          169.04999923706055,
+          9.52500033378601
+        ]
+      ],
+      "dimensions_mm": [
+        58.42000198364258,
+        19.049999237060547,
+        9.52500033378601
+      ],
+      "source_triangles": 2052,
+      "redundant_facets_removed": 0,
+      "triangles": 2052,
+      "contact_area_mm2": 380.1648109256412,
+      "downward_area_above_45_deg_mm2": 26.413331619385715,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0
+    },
+    {
+      "name": "L4-v117",
+      "source_up_axis": "-X",
+      "rotation": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "translation_mm": [
+        -36.48676681518555,
+        175.29724311828613,
+        13.287933349609375
+      ],
+      "bounds_mm": [
+        [
+          12.0,
+          181.0,
+          0.0
+        ],
+        [
+          70.42000198364258,
+          200.04999923706055,
+          9.52500033378601
+        ]
+      ],
+      "dimensions_mm": [
+        58.42000198364258,
+        19.049999237060547,
+        9.52500033378601
+      ],
+      "source_triangles": 1826,
+      "redundant_facets_removed": 0,
+      "triangles": 1826,
+      "contact_area_mm2": 380.1648109256412,
+      "downward_area_above_45_deg_mm2": 16.840651186592037,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0
+    },
+    {
+      "name": "R3-v117",
+      "source_up_axis": "-X",
+      "rotation": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "translation_mm": [
+        -36.48676681518555,
+        206.29724311828613,
+        13.287933349609375
+      ],
+      "bounds_mm": [
+        [
+          12.0,
+          212.0,
+          0.0
+        ],
+        [
+          70.42000198364258,
+          231.04999923706055,
+          9.52500033378601
+        ]
+      ],
+      "dimensions_mm": [
+        58.42000198364258,
+        19.049999237060547,
+        9.52500033378601
+      ],
+      "source_triangles": 2116,
+      "redundant_facets_removed": 0,
+      "triangles": 2116,
+      "contact_area_mm2": 380.1648109256412,
+      "downward_area_above_45_deg_mm2": 9.154285793307277,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0
+    },
+    {
+      "name": "R4-v117",
+      "source_up_axis": "-X",
+      "rotation": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "translation_mm": [
+        191.90676879882812,
+        206.29724311828613,
+        13.287933349609375
+      ],
+      "bounds_mm": [
+        [
+          85.0,
+          212.0,
+          0.0
+        ],
+        [
+          143.42000198364258,
+          231.04999923706055,
+          9.52500033378601
+        ]
+      ],
+      "dimensions_mm": [
+        58.42000198364258,
+        19.049999237060547,
+        9.52500033378601
+      ],
+      "source_triangles": 1890,
+      "redundant_facets_removed": 0,
+      "triangles": 1890,
+      "contact_area_mm2": 380.1648109256412,
+      "downward_area_above_45_deg_mm2": 13.39266489124101,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0
+    }
+  ]
+}

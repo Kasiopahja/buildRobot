@@ -9,6 +9,16 @@ Hier nur tatsächlich ausgeführte Arbeit und gemessene Ergebnisse eintragen.
 - Keine bestätigten Bestellungen, Drucke, Messungen oder Hardwaretests.
 - Die frühere deutsche PDF wurde im Chat erwähnt, ist hier aber nicht als Datei vorhanden.
 
+## 2026-11-01 – Digitale Druckvorbereitung
+
+- Nutzer bevorzugt PETG wegen des vorhandenen Materialbestands.
+- Elf Original-STLs aus Upstream-Commit f328ed35f5cbcbdd44a5e16e3ec679d2caa00d92 übernommen; Lizenz und Hashes gespeichert.
+- Mit Blender 4.3.2 ausgerichtete Einzelteile, eine gemeinsame P1S-Platte und eine Alternative mit separatem Deckel erzeugt.
+- Im vorbereiteten Deckel zwei entgegengesetzte, deckungsgleiche Dreiecke eines nullvolumigen Netzanhangs entfernt; Originaldateien unverändert.
+- Maße, starre Transformationen, geschlossene Netze, Abstände und Plattengrenzen digital geprüft.
+- Noch kein Bambu-Studio-Slicing, physischer Druck, Servo-Passungstest oder Hardwaretest bestätigt.
+- Dateien und Bedienhinweise: [Druckübersicht](../hardware/printing/README.md).
+
 ## Bestand
 
 | Teil / Werkzeug | Modell / Menge | Bestätigt vorhanden? |

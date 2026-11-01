@@ -31,6 +31,6 @@ Einige Upstream-Anleitungen enthalten parallel Hinweise zu älteren Akkuhaltern 
 
 Die deutschen Markdown-Dateien wurden anhand des Chats und verlinkter Projektunterlagen neu zusammengestellt. Sie enthalten eigene Planungsentscheidungen und keine zugesicherte praktische Validierung.
 
-Die frühere PDF „Sesame Robot – Deutsche Bauanleitung“ wurde nicht bereitgestellt. Deshalb ist sie hier nicht enthalten. Original-STLs, CAD, Firmware und Schaltbilddateien werden derzeit über die offiziellen Quellen referenziert; ein versionierter Import für den konkreten Aufbau steht noch aus.
+Die frühere PDF „Sesame Robot – Deutsche Bauanleitung“ wurde nicht bereitgestellt. Deshalb ist sie hier nicht enthalten. Am 1. November 2026 wurden elf Original-STLs samt Lizenz, Referenzbildern und Quellenmanifest aus dem fixierten Commit f328ed35f5cbcbdd44a5e16e3ec679d2caa00d92 importiert. [Druckdateien und Blender-Aufbereitung](../hardware/printing/README.md). CAD, Firmware und Schaltbilddateien werden weiterhin über die offiziellen Quellen referenziert.
 
 Händlerlinks und recherchierte Preise stehen direkt in der [Einkaufsliste](einkaufsliste-de.md). Budgetansätze und offene Kompatibilitätsprüfungen sind dort gekennzeichnet.

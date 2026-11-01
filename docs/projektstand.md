@@ -1,6 +1,6 @@
 # Projektstand und Entscheidungen
 
-Stand: 31. Oktober 2026. Grundlage ist der bisherige Chat; kein physischer Baufortschritt wurde bestätigt.
+Stand: 1. November 2026. Grundlage ist der bisherige Chat; kein physischer Baufortschritt wurde bestätigt.
 
 ## Ziel
 
@@ -24,7 +24,7 @@ Diese Tabelle dokumentiert die bisherige Gesprächsentscheidung und ist kein neu
 - Acht MG90S-180°-Servos; zehn Exemplare für zwei Ersatzservos einplanen.
 - 0,96-Zoll-SSD1306-OLED mit 128×64 Pixeln.
 - Aktueller Innenrahmen für den Bambu-14500-Akku mit 7,4 V / 800 mAh.
-- PLA-Druckteile.
+- Druckteile ursprünglich für PLA geplant; Nutzer möchte wegen des vorhandenen Bestands bevorzugt PETG verwenden. Ein praktischer Passungstest steht aus.
 - Zuerst Browsersteuerung und Grundbewegungen, danach Sensorik, anschließend optional Kamera.
 - ESP32Servo zunächst in Version 3.0.9 verwenden.
 
@@ -37,6 +37,7 @@ Der Pololu-D24V50F5-Wandler ist eine Empfehlung aus der Einkaufsplanung, noch ke
 | Ziel und Projektvergleich | Im Gespräch dokumentiert |
 | Entscheidung für Sesame | Klare Präferenz des Nutzers; Aufbauplanung darauf ausgerichtet |
 | Deutscher Einkaufsentwurf | Erstellt; Preise, Kleinteilangebote und Passung teilweise offen |
+| 3D-Druckvorbereitung | Elf Original-STLs importiert; Blender-Ausrichtung, Druckplatten und digitale Geometrieprüfungen erstellt; noch nicht geslict oder gedruckt |
 | Deutsche Anleitung | Neu als Markdown erstellt; noch nicht praktisch erprobt |
 | Frühere PDF „Sesame Robot – Deutsche Bauanleitung“ | Vom Nutzer erwähnt; Datei in dieser Umgebung nicht vorhanden |
 | Bestellungen / vorhandene Elektronik | Nicht bestätigt |
@@ -60,4 +61,4 @@ Der bisherige Gesprächsansatz lag bei etwa 100–130 €. Mit zehn Servos zum r
 
 ## Nächster sinnvoller Schritt
 
-Einkaufsliste vervollständigen und Passproben für Servo/OLED planen. Danach Einkauf, vollständiger Druck, Elektroniktest und Montage gemäß [Bauanleitung](bauanleitung-de.md). Tatsächliche Ergebnisse im [Bauprotokoll](bauprotokoll.md) festhalten.
+Einkaufsliste vervollständigen, vorbereitete Druckdateien in Bambu Studio slicen und Passproben für Servo/OLED drucken. Danach Einkauf, vollständiger Druck, Elektroniktest und Montage gemäß [Bauanleitung](bauanleitung-de.md). Tatsächliche Ergebnisse im [Bauprotokoll](bauprotokoll.md) festhalten.

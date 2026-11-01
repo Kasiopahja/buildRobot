@@ -14,6 +14,8 @@ Diese Fassung wurde für dieses Repository neu zusammengestellt. Sie ist nicht d
 
 ## 2. Druck auf dem Bambu Lab P1S
 
+Seit 1. November 2026 liegen [Originale und mit Blender ausgerichtete Druckplatten](../hardware/printing/README.md) im Repository. Dort stehen auch die Hinweise für den vom Nutzer bevorzugten PETG-Druck. Eine gemeinsame 3MF-Platte enthält jedes der elf Teile einmal; alternativ sind zehn Grundteile und ein separater Deckel vorbereitet. Die Dateien enthalten keine fertigen Slicerprofile.
+
 Die [offizielle Druckanleitung](https://github.com/dorianborian/sesame-robot/blob/main/hardware/printing/README.md) nennt PLA/PLA+, zwei Wände und 8–10 % Honeycomb-Infill. Die acht Gelenkteile, der Innenrahmen und die Bodenplatte sind dort ohne Stützen vorgesehen; der Deckel braucht gezielte Stützen.
 
 Als **eigener Startpunkt**, nicht als zusätzlich verifizierte Projektvorgabe: 0,4-mm-Düse, 0,2-mm-Schichthöhe und das zum PLA passende Bambu-Studio-Materialprofil. Bauteile in Originalgröße drucken. Deckelstützen anhand der Bilder zur gewählten Deckelvariante setzen und die Vorschau prüfen.
